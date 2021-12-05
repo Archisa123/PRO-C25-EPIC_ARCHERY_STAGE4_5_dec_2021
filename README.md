@@ -1,1 +1,1 @@
-# PRO-C25-EPIC_ARCHERY_STAGE4_5_dec_2021
+# project-C24-template
